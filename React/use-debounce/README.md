@@ -2,6 +2,7 @@
 By using **debounce** hook, it can live search to limit the number of request to the API
 
 ![](https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/04/debounce.png)
+
 ref: https://css-tricks.com/debouncing-throttling-explained-examples/
 
 ## 📚 What I've learned
